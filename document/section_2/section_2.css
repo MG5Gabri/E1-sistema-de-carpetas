@@ -33,6 +33,7 @@
 }
 .section_2 .capterra-container .capterra-rating .capterra-rating-stars {
     width: 16rem;
+<<<<<<< HEAD
 }
 .section_2 .capterra-container .capterra-rating .capterra-rating-stars img {
     width: 100%;
@@ -53,3 +54,8 @@
     display: flex;
     align-items: center;
 }
+=======
+    display: flex;
+    grid-template-columns: repeat(5, 1fr);
+}
+>>>>>>> 252f19d09670b65f119cf1d9ddd64e109d26d5a7
