@@ -5,3 +5,50 @@
     background-color: rgb(246, 238, 252);
     border: 0.2rem solid black;
 }
+.section_10 .r10-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.section_10 .r10-container .r10-container-l_r {
+    width: 104rem;
+    height: 46rem;
+    display: grid;
+    grid-template-columns: 1fr 46rem;
+}
+.section_10 .r10-container .r10-container-r{
+    width: 46rem;
+    height: 46rem;
+}
+.section_10 .r10-container .r10-container-r img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.section_10 .r10-container .r10-container-l {
+    margin-top: 10.3rem;
+    margin-left: 8rem;
+    width: 46.9rem;
+    height: 25.4rem;
+}
+.section_10 .r10-container .r10-container-l h2 {
+    height: 4.1rem;
+    font-size: 2.8rem;
+}
+.section_10 .r10-container .r10-container-l p {
+    font-size: 1.8rem;
+    height: 4.8rem;
+}
+.section_10 .r10-container .r10-container-l .r10-container-r-btn {
+    margin-top: 2.4rem;
+    width: 22.3rem;
+    height: 5.25rem;
+    border: 0.2rem solid black;
+    border-radius: 3.2rem;
+    font-size: 1.6rem;
+    font-weight: 700;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

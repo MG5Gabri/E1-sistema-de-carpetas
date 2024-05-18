@@ -5,3 +5,17 @@ footer {
     background-color: aquamarine;
     border: 0.2rem solid black;
 }
+footer .f-container-1 {
+    margin-top: 8.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer .f-container-1 .f-container-grid {
+    width: 106.3rem;
+    height: 19.7rem;
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: repeat(6,12.8rem);
+    gap: 5.87rem;
+}

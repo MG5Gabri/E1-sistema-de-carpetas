@@ -4,4 +4,8 @@
     margin: auto;
     background-color: rgb(118, 34, 215);
     border: 0.2rem solid black;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
